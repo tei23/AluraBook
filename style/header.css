@@ -39,3 +39,21 @@
     padding: 1em;
     
 }
+
+.lista-menu__titulo{
+    color: var(--laranja);
+    font-weight: 7000;
+}
+
+.lista-menu__link{
+    background: var(--azul-degrade);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.container_botao{
+    display: none;
+}
